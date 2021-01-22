@@ -1,0 +1,1498 @@
+[20/01/21 21:46:09] - Info - Obtendo dados a partir do webservice...
+[20/01/21 21:46:12] - Info - Dados XML reconhecidos com sucesso
+[20/01/21 21:46:50] - Info - Obtendo dados a partir do webservice...
+[20/01/21 21:46:53] - Info - Dados XML reconhecidos com sucesso
+[20/01/21 21:46:55] - Info - Obtendo conexão do banco de dados...
+[20/01/21 21:46:55] - Info - Conexão: Driver={MySQL ODBC 5.1 Driver};DATABASE=mutant;SERVER=mutant.mysql.dbaas.com.br;User=mutant;Password=mUt4nt2021;PORT=3306;OPTION=18475;
+[20/01/21 21:46:55] - Info - Carregando XML...
+[20/01/21 21:46:55] - Info - Removendo registros anteriores do banco de dados...
+[20/01/21 21:46:57] - Info - Obtendo lista de países a partir do XML...
+[20/01/21 21:46:57] - Info - Total de registros encontrados: 246
+[20/01/21 21:46:57] - Info - Salvando registro de país (ISOCode AD)
+[20/01/21 21:46:58] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:46:58] - Info - Total de registros encontrados: 5
+[20/01/21 21:46:58] - Info - Salvando registro de linguagem (LanguageISOCode cat)
+[20/01/21 21:46:59] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:46:59] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:47:00] - Info - Salvando registro de linguagem (LanguageISOCode glg)
+[20/01/21 21:47:00] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 21:47:01] - Info - Salvando registro de país (ISOCode AE)
+[20/01/21 21:47:01] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:01] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:01] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 21:47:02] - Info - Salvando registro de país (ISOCode AF)
+[20/01/21 21:47:03] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:03] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:03] - Info - Salvando registro de linguagem (LanguageISOCode pus)
+[20/01/21 21:47:03] - Info - Salvando registro de país (ISOCode AG)
+[20/01/21 21:47:06] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:06] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:06] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:47:07] - Info - Salvando registro de país (ISOCode AI)
+[20/01/21 21:47:07] - Info - Salvando registro de país (ISOCode AL)
+[20/01/21 21:47:08] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:08] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:08] - Info - Salvando registro de linguagem (LanguageISOCode sq)
+[20/01/21 21:47:09] - Info - Salvando registro de país (ISOCode AM)
+[20/01/21 21:47:09] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:09] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:09] - Info - Salvando registro de linguagem (LanguageISOCode hy)
+[20/01/21 21:47:10] - Info - Salvando registro de país (ISOCode AN)
+[20/01/21 21:47:10] - Info - Salvando registro de país (ISOCode AO)
+[20/01/21 21:47:11] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:11] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:11] - Info - Salvando registro de linguagem (LanguageISOCode bnt)
+[20/01/21 21:47:12] - Info - Salvando registro de país (ISOCode AQ)
+[20/01/21 21:47:13] - Info - Salvando registro de país (ISOCode AR)
+[20/01/21 21:47:13] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:13] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:13] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:47:14] - Info - Salvando registro de país (ISOCode AS)
+[20/01/21 21:47:15] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:15] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:15] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:47:15] - Info - Salvando registro de país (ISOCode AT)
+[20/01/21 21:47:16] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:16] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:16] - Info - Salvando registro de linguagem (LanguageISOCode de)
+[20/01/21 21:47:17] - Info - Salvando registro de país (ISOCode AU)
+[20/01/21 21:47:18] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:18] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:18] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:47:19] - Info - Salvando registro de país (ISOCode AW)
+[20/01/21 21:47:19] - Info - Salvando registro de país (ISOCode AX)
+[20/01/21 21:47:20] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:20] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:20] - Info - Salvando registro de linguagem (LanguageISOCode sv)
+[20/01/21 21:47:21] - Info - Salvando registro de país (ISOCode AZ)
+[20/01/21 21:47:22] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:22] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:22] - Info - Salvando registro de linguagem (LanguageISOCode aze)
+[20/01/21 21:47:22] - Info - Salvando registro de país (ISOCode BA)
+[20/01/21 21:47:23] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:23] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:23] - Info - Salvando registro de linguagem (LanguageISOCode scr)
+[20/01/21 21:47:24] - Info - Salvando registro de país (ISOCode BB)
+[20/01/21 21:47:25] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:25] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:25] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:47:26] - Info - Salvando registro de país (ISOCode BD)
+[20/01/21 21:47:26] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:26] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:26] - Info - Salvando registro de linguagem (LanguageISOCode ben)
+[20/01/21 21:47:27] - Info - Salvando registro de país (ISOCode BE)
+[20/01/21 21:47:28] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:28] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:28] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 21:47:29] - Info - Salvando registro de país (ISOCode BF)
+[20/01/21 21:47:29] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:29] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:29] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:47:30] - Info - Salvando registro de país (ISOCode BG)
+[20/01/21 21:47:30] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:30] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:30] - Info - Salvando registro de linguagem (LanguageISOCode bul)
+[20/01/21 21:47:31] - Info - Salvando registro de país (ISOCode BH)
+[20/01/21 21:47:32] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:32] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:32] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 21:47:34] - Info - Salvando registro de país (ISOCode BI)
+[20/01/21 21:47:35] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:35] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:35] - Info - Salvando registro de linguagem (LanguageISOCode rn)
+[20/01/21 21:47:35] - Info - Salvando registro de país (ISOCode BJ)
+[20/01/21 21:47:36] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:36] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:36] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:47:36] - Info - Salvando registro de país (ISOCode BL)
+[20/01/21 21:47:37] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:37] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:37] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:47:38] - Info - Salvando registro de país (ISOCode BM)
+[20/01/21 21:47:39] - Info - Salvando registro de país (ISOCode BN)
+[20/01/21 21:47:39] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:39] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:39] - Info - Salvando registro de linguagem (LanguageISOCode ms)
+[20/01/21 21:47:40] - Info - Salvando registro de país (ISOCode BO)
+[20/01/21 21:47:41] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:41] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:41] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:47:42] - Info - Salvando registro de país (ISOCode BQ)
+[20/01/21 21:47:42] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:42] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:42] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 21:47:43] - Info - Salvando registro de país (ISOCode BR)
+[20/01/21 21:47:44] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:44] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:44] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 21:47:44] - Info - Salvando registro de país (ISOCode BS)
+[20/01/21 21:47:45] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:45] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:45] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:47:46] - Info - Salvando registro de país (ISOCode BT)
+[20/01/21 21:47:47] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:47] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:47] - Info - Salvando registro de linguagem (LanguageISOCode dzo)
+[20/01/21 21:47:47] - Info - Salvando registro de país (ISOCode BV)
+[20/01/21 21:47:48] - Info - Salvando registro de país (ISOCode BW)
+[20/01/21 21:47:49] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:49] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:49] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:47:49] - Info - Salvando registro de país (ISOCode BY)
+[20/01/21 21:47:50] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:50] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:50] - Info - Salvando registro de linguagem (LanguageISOCode bel)
+[20/01/21 21:47:51] - Info - Salvando registro de país (ISOCode BZ)
+[20/01/21 21:47:52] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:52] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:52] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:47:52] - Info - Salvando registro de país (ISOCode CA)
+[20/01/21 21:47:53] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:53] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:53] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:47:54] - Info - Salvando registro de país (ISOCode CC)
+[20/01/21 21:47:55] - Info - Salvando registro de país (ISOCode CD)
+[20/01/21 21:47:56] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:56] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:56] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:47:57] - Info - Salvando registro de país (ISOCode CF)
+[20/01/21 21:47:58] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:47:58] - Info - Total de registros encontrados: 1
+[20/01/21 21:47:58] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:47:59] - Info - Salvando registro de país (ISOCode CG)
+[20/01/21 21:48:00] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:00] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:00] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:48:00] - Info - Salvando registro de país (ISOCode CH)
+[20/01/21 21:48:01] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:01] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:01] - Info - Salvando registro de linguagem (LanguageISOCode de)
+[20/01/21 21:48:03] - Info - Salvando registro de país (ISOCode CI)
+[20/01/21 21:48:04] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:04] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:04] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:48:05] - Info - Salvando registro de país (ISOCode CK)
+[20/01/21 21:48:05] - Info - Salvando registro de país (ISOCode CL)
+[20/01/21 21:48:06] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:06] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:06] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:48:07] - Info - Salvando registro de país (ISOCode CM)
+[20/01/21 21:48:08] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:08] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:08] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:48:08] - Info - Salvando registro de país (ISOCode CN)
+[20/01/21 21:48:09] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:09] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:09] - Info - Salvando registro de linguagem (LanguageISOCode zh)
+[20/01/21 21:48:09] - Info - Salvando registro de país (ISOCode CO)
+[20/01/21 21:48:11] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:11] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:11] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:48:12] - Info - Salvando registro de país (ISOCode CR)
+[20/01/21 21:48:12] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:12] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:12] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:48:13] - Info - Salvando registro de país (ISOCode CU)
+[20/01/21 21:48:14] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:14] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:14] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:48:15] - Info - Salvando registro de país (ISOCode CV)
+[20/01/21 21:48:15] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:15] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:15] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 21:48:16] - Info - Salvando registro de país (ISOCode CW)
+[20/01/21 21:48:17] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:17] - Info - Total de registros encontrados: 3
+[20/01/21 21:48:17] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:48:18] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 21:48:18] - Info - Salvando registro de linguagem (LanguageISOCode pap)
+[20/01/21 21:48:19] - Info - Salvando registro de país (ISOCode CX)
+[20/01/21 21:48:20] - Info - Salvando registro de país (ISOCode CY)
+[20/01/21 21:48:21] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:21] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:21] - Info - Salvando registro de linguagem (LanguageISOCode el)
+[20/01/21 21:48:22] - Info - Salvando registro de país (ISOCode CZ)
+[20/01/21 21:48:22] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:22] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:22] - Info - Salvando registro de linguagem (LanguageISOCode cs)
+[20/01/21 21:48:23] - Info - Salvando registro de país (ISOCode DE)
+[20/01/21 21:48:24] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:24] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:24] - Info - Salvando registro de linguagem (LanguageISOCode de)
+[20/01/21 21:48:25] - Info - Salvando registro de país (ISOCode DJ)
+[20/01/21 21:48:26] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:26] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:26] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 21:48:27] - Info - Salvando registro de país (ISOCode DK)
+[20/01/21 21:48:28] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:28] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:28] - Info - Salvando registro de linguagem (LanguageISOCode dan)
+[20/01/21 21:48:28] - Info - Salvando registro de país (ISOCode DM)
+[20/01/21 21:48:29] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:29] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:29] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:48:30] - Info - Salvando registro de país (ISOCode DO)
+[20/01/21 21:48:33] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:33] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:33] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:48:33] - Info - Salvando registro de país (ISOCode DZ)
+[20/01/21 21:48:34] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:34] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:34] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 21:48:35] - Info - Salvando registro de país (ISOCode EC)
+[20/01/21 21:48:36] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:36] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:36] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:48:36] - Info - Salvando registro de país (ISOCode EE)
+[20/01/21 21:48:37] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:37] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:37] - Info - Salvando registro de linguagem (LanguageISOCode est)
+[20/01/21 21:48:38] - Info - Salvando registro de país (ISOCode EG)
+[20/01/21 21:48:39] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:39] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:39] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 21:48:40] - Info - Salvando registro de país (ISOCode EH)
+[20/01/21 21:48:41] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:41] - Info - Total de registros encontrados: 2
+[20/01/21 21:48:41] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 21:48:42] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:48:43] - Info - Salvando registro de país (ISOCode ER)
+[20/01/21 21:48:44] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:44] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:44] - Info - Salvando registro de linguagem (LanguageISOCode tir)
+[20/01/21 21:48:45] - Info - Salvando registro de país (ISOCode ES)
+[20/01/21 21:48:45] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:45] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:45] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:48:46] - Info - Salvando registro de país (ISOCode ET)
+[20/01/21 21:48:47] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:47] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:47] - Info - Salvando registro de linguagem (LanguageISOCode amh)
+[20/01/21 21:48:47] - Info - Salvando registro de país (ISOCode FI)
+[20/01/21 21:48:48] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:48] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:48] - Info - Salvando registro de linguagem (LanguageISOCode fin)
+[20/01/21 21:48:48] - Info - Salvando registro de país (ISOCode FJ)
+[20/01/21 21:48:49] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:49] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:49] - Info - Salvando registro de linguagem (LanguageISOCode fij)
+[20/01/21 21:48:50] - Info - Salvando registro de país (ISOCode FK)
+[20/01/21 21:48:50] - Info - Salvando registro de país (ISOCode FM)
+[20/01/21 21:48:51] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:51] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:51] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:48:52] - Info - Salvando registro de país (ISOCode FO)
+[20/01/21 21:48:52] - Info - Salvando registro de país (ISOCode FR)
+[20/01/21 21:48:53] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:53] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:53] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:48:53] - Info - Salvando registro de país (ISOCode GA)
+[20/01/21 21:48:54] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:54] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:54] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:48:55] - Info - Salvando registro de país (ISOCode GB)
+[20/01/21 21:48:56] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:56] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:56] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:48:56] - Info - Salvando registro de país (ISOCode GD)
+[20/01/21 21:48:57] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:57] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:57] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:48:58] - Info - Salvando registro de país (ISOCode GE)
+[20/01/21 21:48:58] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:48:58] - Info - Total de registros encontrados: 1
+[20/01/21 21:48:58] - Info - Salvando registro de linguagem (LanguageISOCode ka)
+[20/01/21 21:48:59] - Info - Salvando registro de país (ISOCode GF)
+[20/01/21 21:49:00] - Info - Salvando registro de país (ISOCode GH)
+[20/01/21 21:49:01] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:49:01] - Info - Total de registros encontrados: 1
+[20/01/21 21:49:01] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:49:01] - Info - Salvando registro de país (ISOCode GI)
+[20/01/21 21:49:02] - Info - Salvando registro de país (ISOCode GL)
+[20/01/21 21:49:03] - Info - Salvando registro de país (ISOCode GM)
+[20/01/21 21:49:03] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:49:03] - Info - Total de registros encontrados: 1
+[20/01/21 21:49:03] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:49:04] - Info - Salvando registro de país (ISOCode GN)
+[20/01/21 21:49:05] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:49:05] - Info - Total de registros encontrados: 1
+[20/01/21 21:49:05] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:49:06] - Info - Salvando registro de país (ISOCode GP)
+[20/01/21 21:49:07] - Info - Salvando registro de país (ISOCode GQ)
+[20/01/21 21:50:13] - Info - Obtendo dados a partir do webservice...
+[20/01/21 21:50:16] - Info - Dados XML reconhecidos com sucesso
+[20/01/21 21:50:18] - Info - Obtendo conexão do banco de dados...
+[20/01/21 21:50:18] - Info - Conexão: Driver={MySQL ODBC 5.1 Driver};DATABASE=mutant;SERVER=mutant.mysql.dbaas.com.br;User=mutant;Password=mUt4nt2021;PORT=3306;OPTION=18475;
+[20/01/21 21:50:18] - Info - Carregando XML...
+[20/01/21 21:50:18] - Info - Removendo registros anteriores do banco de dados...
+[20/01/21 21:50:19] - Info - Obtendo lista de países a partir do XML...
+[20/01/21 21:50:19] - Info - Total de registros encontrados: 246
+[20/01/21 21:50:19] - Info - Salvando registro de país (ISOCode AD)
+[20/01/21 21:50:20] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:50:20] - Info - Total de registros encontrados: 5
+[20/01/21 21:50:20] - Info - Salvando registro de linguagem (LanguageISOCode cat)
+[20/01/21 21:50:20] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:50:21] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:50:21] - Info - Salvando registro de linguagem (LanguageISOCode glg)
+[20/01/21 21:50:22] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 21:50:23] - Info - Salvando registro de país (ISOCode AE)
+[20/01/21 21:50:23] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:50:23] - Info - Total de registros encontrados: 1
+[20/01/21 21:50:23] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 21:50:24] - Info - Salvando registro de país (ISOCode AF)
+[20/01/21 21:50:25] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:50:25] - Info - Total de registros encontrados: 1
+[20/01/21 21:50:25] - Info - Salvando registro de linguagem (LanguageISOCode pus)
+[20/01/21 21:50:25] - Info - Salvando registro de país (ISOCode AG)
+[20/01/21 21:50:26] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:50:26] - Info - Total de registros encontrados: 1
+[20/01/21 21:50:26] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:50:27] - Info - Salvando registro de país (ISOCode AI)
+[20/01/21 21:50:28] - Info - Salvando registro de país (ISOCode AL)
+[20/01/21 21:50:28] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:50:28] - Info - Total de registros encontrados: 1
+[20/01/21 21:50:28] - Info - Salvando registro de linguagem (LanguageISOCode sq)
+[20/01/21 21:50:29] - Info - Salvando registro de país (ISOCode AM)
+[20/01/21 21:50:29] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:50:29] - Info - Total de registros encontrados: 1
+[20/01/21 21:50:29] - Info - Salvando registro de linguagem (LanguageISOCode hy)
+[20/01/21 21:53:47] - Info - Obtendo dados a partir do webservice...
+[20/01/21 21:53:49] - Info - Dados XML reconhecidos com sucesso
+[20/01/21 21:53:51] - Info - Obtendo conexão do banco de dados...
+[20/01/21 21:53:51] - Info - Conexão: Driver={MySQL ODBC 5.1 Driver};DATABASE=mutant;SERVER=mutant.mysql.dbaas.com.br;User=mutant;Password=mUt4nt2021;PORT=3306;OPTION=18475;
+[20/01/21 21:53:51] - Info - Carregando XML...
+[20/01/21 21:53:51] - Info - Removendo registros anteriores do banco de dados...
+[20/01/21 21:53:52] - Info - Obtendo lista de países a partir do XML...
+[20/01/21 21:53:52] - Info - Total de registros encontrados: 246
+[20/01/21 21:53:52] - Info - Salvando registro de país (ISOCode AD)
+[20/01/21 21:53:53] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:53:53] - Info - Total de registros encontrados: 5
+[20/01/21 21:53:53] - Info - Salvando registro de linguagem (LanguageISOCode cat)
+[20/01/21 21:53:54] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:53:55] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:53:56] - Info - Salvando registro de linguagem (LanguageISOCode glg)
+[20/01/21 21:53:57] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 21:53:57] - Info - Salvando registro de país (ISOCode AE)
+[20/01/21 21:53:58] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:53:58] - Info - Total de registros encontrados: 1
+[20/01/21 21:53:58] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 21:54:00] - Info - Salvando registro de país (ISOCode AF)
+[20/01/21 21:54:01] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:01] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:01] - Info - Salvando registro de linguagem (LanguageISOCode pus)
+[20/01/21 21:54:02] - Info - Salvando registro de país (ISOCode AG)
+[20/01/21 21:54:03] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:03] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:03] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:54:04] - Info - Salvando registro de país (ISOCode AI)
+[20/01/21 21:54:06] - Info - Salvando registro de país (ISOCode AL)
+[20/01/21 21:54:06] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:06] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:06] - Info - Salvando registro de linguagem (LanguageISOCode sq)
+[20/01/21 21:54:07] - Info - Salvando registro de país (ISOCode AM)
+[20/01/21 21:54:08] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:08] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:08] - Info - Salvando registro de linguagem (LanguageISOCode hy)
+[20/01/21 21:54:09] - Info - Salvando registro de país (ISOCode AN)
+[20/01/21 21:54:10] - Info - Salvando registro de país (ISOCode AO)
+[20/01/21 21:54:11] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:11] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:11] - Info - Salvando registro de linguagem (LanguageISOCode bnt)
+[20/01/21 21:54:11] - Info - Salvando registro de país (ISOCode AQ)
+[20/01/21 21:54:12] - Info - Salvando registro de país (ISOCode AR)
+[20/01/21 21:54:13] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:13] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:13] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 21:54:14] - Info - Salvando registro de país (ISOCode AS)
+[20/01/21 21:54:14] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:14] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:14] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:54:15] - Info - Salvando registro de país (ISOCode AT)
+[20/01/21 21:54:16] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:16] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:16] - Info - Salvando registro de linguagem (LanguageISOCode de)
+[20/01/21 21:54:17] - Info - Salvando registro de país (ISOCode AU)
+[20/01/21 21:54:18] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:18] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:18] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:54:18] - Info - Salvando registro de país (ISOCode AW)
+[20/01/21 21:54:19] - Info - Salvando registro de país (ISOCode AX)
+[20/01/21 21:54:20] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:20] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:20] - Info - Salvando registro de linguagem (LanguageISOCode sv)
+[20/01/21 21:54:21] - Info - Salvando registro de país (ISOCode AZ)
+[20/01/21 21:54:21] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:21] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:21] - Info - Salvando registro de linguagem (LanguageISOCode aze)
+[20/01/21 21:54:22] - Info - Salvando registro de país (ISOCode BA)
+[20/01/21 21:54:22] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:22] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:22] - Info - Salvando registro de linguagem (LanguageISOCode scr)
+[20/01/21 21:54:23] - Info - Salvando registro de país (ISOCode BB)
+[20/01/21 21:54:23] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:23] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:23] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 21:54:24] - Info - Salvando registro de país (ISOCode BD)
+[20/01/21 21:54:25] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:25] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:25] - Info - Salvando registro de linguagem (LanguageISOCode ben)
+[20/01/21 21:54:25] - Info - Salvando registro de país (ISOCode BE)
+[20/01/21 21:54:26] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:26] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:26] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 21:54:27] - Info - Salvando registro de país (ISOCode BF)
+[20/01/21 21:54:28] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:28] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:28] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 21:54:29] - Info - Salvando registro de país (ISOCode BG)
+[20/01/21 21:54:29] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:29] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:29] - Info - Salvando registro de linguagem (LanguageISOCode bul)
+[20/01/21 21:54:30] - Info - Salvando registro de país (ISOCode BH)
+[20/01/21 21:54:30] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:30] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:30] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 21:54:31] - Info - Salvando registro de país (ISOCode BI)
+[20/01/21 21:54:32] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:32] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:32] - Info - Salvando registro de linguagem (LanguageISOCode rn)
+[20/01/21 21:54:32] - Info - Salvando registro de país (ISOCode BJ)
+[20/01/21 21:54:33] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 21:54:33] - Info - Total de registros encontrados: 1
+[20/01/21 21:54:33] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:02:10] - Info - Obtendo dados a partir do webservice...
+[20/01/21 22:02:12] - Info - Dados XML reconhecidos com sucesso
+[20/01/21 22:02:14] - Info - Obtendo conexão do banco de dados...
+[20/01/21 22:02:14] - Info - Conexão: Driver={MySQL ODBC 5.1 Driver};DATABASE=mutant;SERVER=mutant.mysql.dbaas.com.br;User=mutant;Password=mUt4nt2021;PORT=3306;OPTION=18475;
+[20/01/21 22:02:14] - Info - Carregando XML...
+[20/01/21 22:02:14] - Info - Removendo registros anteriores do banco de dados...
+[20/01/21 22:02:16] - Info - Obtendo lista de países a partir do XML...
+[20/01/21 22:02:16] - Info - Total de registros encontrados: 246
+[20/01/21 22:02:16] - Info - Salvando registro de país (ISOCode AD)
+[20/01/21 22:02:16] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:16] - Info - Total de registros encontrados: 5
+[20/01/21 22:02:16] - Info - Salvando registro de linguagem (LanguageISOCode cat)
+[20/01/21 22:02:17] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:02:18] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:02:18] - Info - Salvando registro de linguagem (LanguageISOCode glg)
+[20/01/21 22:02:19] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:02:20] - Info - Salvando registro de país (ISOCode AE)
+[20/01/21 22:02:20] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:20] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:20] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:02:21] - Info - Salvando registro de país (ISOCode AF)
+[20/01/21 22:02:23] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:23] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:23] - Info - Salvando registro de linguagem (LanguageISOCode pus)
+[20/01/21 22:02:24] - Info - Salvando registro de país (ISOCode AG)
+[20/01/21 22:02:25] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:25] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:25] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:02:25] - Info - Salvando registro de país (ISOCode AI)
+[20/01/21 22:02:26] - Info - Salvando registro de país (ISOCode AL)
+[20/01/21 22:02:26] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:26] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:26] - Info - Salvando registro de linguagem (LanguageISOCode sq)
+[20/01/21 22:02:27] - Info - Salvando registro de país (ISOCode AM)
+[20/01/21 22:02:28] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:28] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:28] - Info - Salvando registro de linguagem (LanguageISOCode hy)
+[20/01/21 22:02:28] - Info - Salvando registro de país (ISOCode AN)
+[20/01/21 22:02:29] - Info - Salvando registro de país (ISOCode AO)
+[20/01/21 22:02:30] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:30] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:30] - Info - Salvando registro de linguagem (LanguageISOCode bnt)
+[20/01/21 22:02:30] - Info - Salvando registro de país (ISOCode AQ)
+[20/01/21 22:02:31] - Info - Salvando registro de país (ISOCode AR)
+[20/01/21 22:02:32] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:32] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:32] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:02:32] - Info - Salvando registro de país (ISOCode AS)
+[20/01/21 22:02:33] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:33] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:33] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:02:34] - Info - Salvando registro de país (ISOCode AT)
+[20/01/21 22:02:34] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:34] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:34] - Info - Salvando registro de linguagem (LanguageISOCode de)
+[20/01/21 22:02:36] - Info - Salvando registro de país (ISOCode AU)
+[20/01/21 22:02:37] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:02:37] - Info - Total de registros encontrados: 1
+[20/01/21 22:02:37] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:04:54] - Info - Obtendo dados a partir do webservice...
+[20/01/21 22:04:56] - Info - Dados XML reconhecidos com sucesso
+[20/01/21 22:04:58] - Info - Obtendo conexão do banco de dados...
+[20/01/21 22:04:58] - Info - Conexão: Driver={MySQL ODBC 5.1 Driver};DATABASE=mutant;SERVER=mutant.mysql.dbaas.com.br;User=mutant;Password=mUt4nt2021;PORT=3306;OPTION=18475;
+[20/01/21 22:04:58] - Info - Carregando XML...
+[20/01/21 22:04:58] - Info - Removendo registros anteriores do banco de dados...
+[20/01/21 22:05:00] - Info - Obtendo lista de países a partir do XML...
+[20/01/21 22:05:00] - Info - Total de registros encontrados: 246
+[20/01/21 22:05:00] - Info - Salvando registro de país (ISOCode AD)
+[20/01/21 22:05:00] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:05:00] - Info - Total de registros encontrados: 5
+[20/01/21 22:05:00] - Info - Salvando registro de linguagem (LanguageISOCode cat)
+[20/01/21 22:05:01] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:05:01] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:05:02] - Info - Salvando registro de linguagem (LanguageISOCode glg)
+[20/01/21 22:05:02] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:05:04] - Info - Salvando registro de país (ISOCode AE)
+[20/01/21 22:05:04] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:05:04] - Info - Total de registros encontrados: 1
+[20/01/21 22:05:04] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:05:05] - Info - Salvando registro de país (ISOCode AF)
+[20/01/21 22:05:05] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:05:05] - Info - Total de registros encontrados: 1
+[20/01/21 22:05:05] - Info - Salvando registro de linguagem (LanguageISOCode pus)
+[20/01/21 22:05:07] - Info - Salvando registro de país (ISOCode AG)
+[20/01/21 22:05:07] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:05:07] - Info - Total de registros encontrados: 1
+[20/01/21 22:05:07] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:05:08] - Info - Salvando registro de país (ISOCode AI)
+[20/01/21 22:05:08] - Info - Salvando registro de país (ISOCode AL)
+[20/01/21 22:05:09] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:05:09] - Info - Total de registros encontrados: 1
+[20/01/21 22:05:09] - Info - Salvando registro de linguagem (LanguageISOCode sq)
+[20/01/21 22:05:10] - Info - Salvando registro de país (ISOCode AM)
+[20/01/21 22:05:12] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:05:12] - Info - Total de registros encontrados: 1
+[20/01/21 22:05:12] - Info - Salvando registro de linguagem (LanguageISOCode hy)
+[20/01/21 22:06:01] - Info - Obtendo dados a partir do webservice...
+[20/01/21 22:06:03] - Info - Dados XML reconhecidos com sucesso
+[20/01/21 22:06:05] - Info - Obtendo conexão do banco de dados...
+[20/01/21 22:06:05] - Info - Conexão: Driver={MySQL ODBC 5.1 Driver};DATABASE=mutant;SERVER=mutant.mysql.dbaas.com.br;User=mutant;Password=mUt4nt2021;PORT=3306;OPTION=18475;
+[20/01/21 22:06:05] - Info - Carregando XML...
+[20/01/21 22:06:05] - Info - Removendo registros anteriores do banco de dados...
+[20/01/21 22:06:08] - Info - Obtendo lista de países a partir do XML...
+[20/01/21 22:06:08] - Info - Total de registros encontrados: 246
+[20/01/21 22:06:08] - Info - Salvando registro de país (ISOCode AD)
+[20/01/21 22:06:08] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:08] - Info - Total de registros encontrados: 5
+[20/01/21 22:06:08] - Info - Salvando registro de linguagem (LanguageISOCode cat)
+[20/01/21 22:06:09] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:06:10] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:06:10] - Info - Salvando registro de linguagem (LanguageISOCode glg)
+[20/01/21 22:06:11] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:06:12] - Info - Salvando registro de país (ISOCode AE)
+[20/01/21 22:06:13] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:13] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:13] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:06:14] - Info - Salvando registro de país (ISOCode AF)
+[20/01/21 22:06:15] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:15] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:15] - Info - Salvando registro de linguagem (LanguageISOCode pus)
+[20/01/21 22:06:16] - Info - Salvando registro de país (ISOCode AG)
+[20/01/21 22:06:17] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:17] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:17] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:06:18] - Info - Salvando registro de país (ISOCode AI)
+[20/01/21 22:06:19] - Info - Salvando registro de país (ISOCode AL)
+[20/01/21 22:06:33] - Info - Obtendo dados a partir do webservice...
+[20/01/21 22:06:36] - Info - Dados XML reconhecidos com sucesso
+[20/01/21 22:06:37] - Info - Obtendo conexão do banco de dados...
+[20/01/21 22:06:37] - Info - Conexão: Driver={MySQL ODBC 5.1 Driver};DATABASE=mutant;SERVER=mutant.mysql.dbaas.com.br;User=mutant;Password=mUt4nt2021;PORT=3306;OPTION=18475;
+[20/01/21 22:06:37] - Info - Carregando XML...
+[20/01/21 22:06:37] - Info - Removendo registros anteriores do banco de dados...
+[20/01/21 22:06:38] - Info - Obtendo lista de países a partir do XML...
+[20/01/21 22:06:38] - Info - Total de registros encontrados: 246
+[20/01/21 22:06:38] - Info - Salvando registro de país (ISOCode AD)
+[20/01/21 22:06:38] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:38] - Info - Total de registros encontrados: 5
+[20/01/21 22:06:38] - Info - Salvando registro de linguagem (LanguageISOCode cat)
+[20/01/21 22:06:39] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:06:39] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:06:40] - Info - Salvando registro de linguagem (LanguageISOCode glg)
+[20/01/21 22:06:40] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:06:41] - Info - Salvando registro de país (ISOCode AE)
+[20/01/21 22:06:41] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:41] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:41] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:06:42] - Info - Salvando registro de país (ISOCode AF)
+[20/01/21 22:06:42] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:42] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:42] - Info - Salvando registro de linguagem (LanguageISOCode pus)
+[20/01/21 22:06:43] - Info - Salvando registro de país (ISOCode AG)
+[20/01/21 22:06:43] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:43] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:43] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:06:44] - Info - Salvando registro de país (ISOCode AI)
+[20/01/21 22:06:44] - Info - Salvando registro de país (ISOCode AL)
+[20/01/21 22:06:45] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:45] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:45] - Info - Salvando registro de linguagem (LanguageISOCode sq)
+[20/01/21 22:06:45] - Info - Salvando registro de país (ISOCode AM)
+[20/01/21 22:06:46] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:46] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:46] - Info - Salvando registro de linguagem (LanguageISOCode hy)
+[20/01/21 22:06:47] - Info - Salvando registro de país (ISOCode AN)
+[20/01/21 22:06:47] - Info - Salvando registro de país (ISOCode AO)
+[20/01/21 22:06:48] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:48] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:48] - Info - Salvando registro de linguagem (LanguageISOCode bnt)
+[20/01/21 22:06:49] - Info - Salvando registro de país (ISOCode AQ)
+[20/01/21 22:06:49] - Info - Salvando registro de país (ISOCode AR)
+[20/01/21 22:06:49] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:49] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:49] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:06:50] - Info - Salvando registro de país (ISOCode AS)
+[20/01/21 22:06:51] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:51] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:51] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:06:51] - Info - Salvando registro de país (ISOCode AT)
+[20/01/21 22:06:52] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:52] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:52] - Info - Salvando registro de linguagem (LanguageISOCode de)
+[20/01/21 22:06:53] - Info - Salvando registro de país (ISOCode AU)
+[20/01/21 22:06:54] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:54] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:54] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:06:55] - Info - Salvando registro de país (ISOCode AW)
+[20/01/21 22:06:56] - Info - Salvando registro de país (ISOCode AX)
+[20/01/21 22:06:57] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:57] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:57] - Info - Salvando registro de linguagem (LanguageISOCode sv)
+[20/01/21 22:06:57] - Info - Salvando registro de país (ISOCode AZ)
+[20/01/21 22:06:58] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:58] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:58] - Info - Salvando registro de linguagem (LanguageISOCode aze)
+[20/01/21 22:06:59] - Info - Salvando registro de país (ISOCode BA)
+[20/01/21 22:06:59] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:06:59] - Info - Total de registros encontrados: 1
+[20/01/21 22:06:59] - Info - Salvando registro de linguagem (LanguageISOCode scr)
+[20/01/21 22:07:00] - Info - Salvando registro de país (ISOCode BB)
+[20/01/21 22:07:01] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:01] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:01] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:07:01] - Info - Salvando registro de país (ISOCode BD)
+[20/01/21 22:07:01] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:01] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:01] - Info - Salvando registro de linguagem (LanguageISOCode ben)
+[20/01/21 22:07:03] - Info - Salvando registro de país (ISOCode BE)
+[20/01/21 22:07:03] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:03] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:03] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 22:07:06] - Info - Salvando registro de país (ISOCode BF)
+[20/01/21 22:07:06] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:06] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:06] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:07:07] - Info - Salvando registro de país (ISOCode BG)
+[20/01/21 22:07:07] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:07] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:07] - Info - Salvando registro de linguagem (LanguageISOCode bul)
+[20/01/21 22:07:09] - Info - Salvando registro de país (ISOCode BH)
+[20/01/21 22:07:09] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:09] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:09] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:07:10] - Info - Salvando registro de país (ISOCode BI)
+[20/01/21 22:07:10] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:10] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:10] - Info - Salvando registro de linguagem (LanguageISOCode rn)
+[20/01/21 22:07:12] - Info - Salvando registro de país (ISOCode BJ)
+[20/01/21 22:07:12] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:12] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:12] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:07:13] - Info - Salvando registro de país (ISOCode BL)
+[20/01/21 22:07:14] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:14] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:14] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:07:14] - Info - Salvando registro de país (ISOCode BM)
+[20/01/21 22:07:15] - Info - Salvando registro de país (ISOCode BN)
+[20/01/21 22:07:15] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:15] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:15] - Info - Salvando registro de linguagem (LanguageISOCode ms)
+[20/01/21 22:07:16] - Info - Salvando registro de país (ISOCode BO)
+[20/01/21 22:07:16] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:16] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:16] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:07:17] - Info - Salvando registro de país (ISOCode BQ)
+[20/01/21 22:07:17] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:17] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:17] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 22:07:18] - Info - Salvando registro de país (ISOCode BR)
+[20/01/21 22:07:18] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:18] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:18] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:07:20] - Info - Salvando registro de país (ISOCode BS)
+[20/01/21 22:07:20] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:20] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:20] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:07:20] - Info - Salvando registro de país (ISOCode BT)
+[20/01/21 22:07:21] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:21] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:21] - Info - Salvando registro de linguagem (LanguageISOCode dzo)
+[20/01/21 22:07:22] - Info - Salvando registro de país (ISOCode BV)
+[20/01/21 22:07:22] - Info - Salvando registro de país (ISOCode BW)
+[20/01/21 22:07:23] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:23] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:23] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:07:24] - Info - Salvando registro de país (ISOCode BY)
+[20/01/21 22:07:24] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:24] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:24] - Info - Salvando registro de linguagem (LanguageISOCode bel)
+[20/01/21 22:07:25] - Info - Salvando registro de país (ISOCode BZ)
+[20/01/21 22:07:26] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:26] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:26] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:07:27] - Info - Salvando registro de país (ISOCode CA)
+[20/01/21 22:07:28] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:28] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:28] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:07:29] - Info - Salvando registro de país (ISOCode CC)
+[20/01/21 22:07:31] - Info - Salvando registro de país (ISOCode CD)
+[20/01/21 22:07:32] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:32] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:32] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:07:32] - Info - Salvando registro de país (ISOCode CF)
+[20/01/21 22:07:33] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:33] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:33] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:07:34] - Info - Salvando registro de país (ISOCode CG)
+[20/01/21 22:07:35] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:35] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:35] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:07:36] - Info - Salvando registro de país (ISOCode CH)
+[20/01/21 22:07:37] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:37] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:37] - Info - Salvando registro de linguagem (LanguageISOCode de)
+[20/01/21 22:07:37] - Info - Salvando registro de país (ISOCode CI)
+[20/01/21 22:07:38] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:38] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:38] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:07:39] - Info - Salvando registro de país (ISOCode CK)
+[20/01/21 22:07:39] - Info - Salvando registro de país (ISOCode CL)
+[20/01/21 22:07:40] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:40] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:40] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:07:42] - Info - Salvando registro de país (ISOCode CM)
+[20/01/21 22:07:42] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:42] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:42] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:07:43] - Info - Salvando registro de país (ISOCode CN)
+[20/01/21 22:07:43] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:43] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:43] - Info - Salvando registro de linguagem (LanguageISOCode zh)
+[20/01/21 22:07:44] - Info - Salvando registro de país (ISOCode CO)
+[20/01/21 22:07:44] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:44] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:44] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:07:45] - Info - Salvando registro de país (ISOCode CR)
+[20/01/21 22:07:45] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:45] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:45] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:07:46] - Info - Salvando registro de país (ISOCode CU)
+[20/01/21 22:07:47] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:47] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:47] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:07:48] - Info - Salvando registro de país (ISOCode CV)
+[20/01/21 22:07:49] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:49] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:49] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:07:50] - Info - Salvando registro de país (ISOCode CW)
+[20/01/21 22:07:51] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:51] - Info - Total de registros encontrados: 3
+[20/01/21 22:07:51] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:07:52] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 22:07:53] - Info - Salvando registro de linguagem (LanguageISOCode pap)
+[20/01/21 22:07:53] - Info - Salvando registro de país (ISOCode CX)
+[20/01/21 22:07:54] - Info - Salvando registro de país (ISOCode CY)
+[20/01/21 22:07:54] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:54] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:54] - Info - Salvando registro de linguagem (LanguageISOCode el)
+[20/01/21 22:07:55] - Info - Salvando registro de país (ISOCode CZ)
+[20/01/21 22:07:56] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:56] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:56] - Info - Salvando registro de linguagem (LanguageISOCode cs)
+[20/01/21 22:07:56] - Info - Salvando registro de país (ISOCode DE)
+[20/01/21 22:07:57] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:57] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:57] - Info - Salvando registro de linguagem (LanguageISOCode de)
+[20/01/21 22:07:57] - Info - Salvando registro de país (ISOCode DJ)
+[20/01/21 22:07:58] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:07:58] - Info - Total de registros encontrados: 1
+[20/01/21 22:07:58] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:07:58] - Info - Salvando registro de país (ISOCode DK)
+[20/01/21 22:08:00] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:00] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:00] - Info - Salvando registro de linguagem (LanguageISOCode dan)
+[20/01/21 22:08:01] - Info - Salvando registro de país (ISOCode DM)
+[20/01/21 22:08:02] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:02] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:02] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:08:02] - Info - Salvando registro de país (ISOCode DO)
+[20/01/21 22:08:03] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:03] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:03] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:08:03] - Info - Salvando registro de país (ISOCode DZ)
+[20/01/21 22:08:04] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:04] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:04] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:08:04] - Info - Salvando registro de país (ISOCode EC)
+[20/01/21 22:08:05] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:05] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:05] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:08:05] - Info - Salvando registro de país (ISOCode EE)
+[20/01/21 22:08:06] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:06] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:06] - Info - Salvando registro de linguagem (LanguageISOCode est)
+[20/01/21 22:08:06] - Info - Salvando registro de país (ISOCode EG)
+[20/01/21 22:08:08] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:08] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:08] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:08:09] - Info - Salvando registro de país (ISOCode EH)
+[20/01/21 22:08:09] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:09] - Info - Total de registros encontrados: 2
+[20/01/21 22:08:09] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:08:10] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:08:11] - Info - Salvando registro de país (ISOCode ER)
+[20/01/21 22:08:11] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:11] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:11] - Info - Salvando registro de linguagem (LanguageISOCode tir)
+[20/01/21 22:08:12] - Info - Salvando registro de país (ISOCode ES)
+[20/01/21 22:08:12] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:12] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:12] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:08:13] - Info - Salvando registro de país (ISOCode ET)
+[20/01/21 22:08:13] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:13] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:13] - Info - Salvando registro de linguagem (LanguageISOCode amh)
+[20/01/21 22:08:14] - Info - Salvando registro de país (ISOCode FI)
+[20/01/21 22:08:14] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:14] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:14] - Info - Salvando registro de linguagem (LanguageISOCode fin)
+[20/01/21 22:08:15] - Info - Salvando registro de país (ISOCode FJ)
+[20/01/21 22:08:15] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:15] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:15] - Info - Salvando registro de linguagem (LanguageISOCode fij)
+[20/01/21 22:08:16] - Info - Salvando registro de país (ISOCode FK)
+[20/01/21 22:08:16] - Info - Salvando registro de país (ISOCode FM)
+[20/01/21 22:08:17] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:17] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:17] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:08:18] - Info - Salvando registro de país (ISOCode FO)
+[20/01/21 22:08:18] - Info - Salvando registro de país (ISOCode FR)
+[20/01/21 22:08:19] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:19] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:19] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:08:19] - Info - Salvando registro de país (ISOCode GA)
+[20/01/21 22:08:20] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:20] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:20] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:08:21] - Info - Salvando registro de país (ISOCode GB)
+[20/01/21 22:08:21] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:21] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:21] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:08:22] - Info - Salvando registro de país (ISOCode GD)
+[20/01/21 22:08:22] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:22] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:22] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:08:23] - Info - Salvando registro de país (ISOCode GE)
+[20/01/21 22:08:23] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:23] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:23] - Info - Salvando registro de linguagem (LanguageISOCode ka)
+[20/01/21 22:08:24] - Info - Salvando registro de país (ISOCode GF)
+[20/01/21 22:08:24] - Info - Salvando registro de país (ISOCode GH)
+[20/01/21 22:08:25] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:25] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:25] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:08:26] - Info - Salvando registro de país (ISOCode GI)
+[20/01/21 22:08:26] - Info - Salvando registro de país (ISOCode GL)
+[20/01/21 22:08:26] - Info - Salvando registro de país (ISOCode GM)
+[20/01/21 22:08:27] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:27] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:27] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:08:27] - Info - Salvando registro de país (ISOCode GN)
+[20/01/21 22:08:28] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:28] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:28] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:08:28] - Info - Salvando registro de país (ISOCode GP)
+[20/01/21 22:08:29] - Info - Salvando registro de país (ISOCode GQ)
+[20/01/21 22:08:30] - Info - Salvando registro de país (ISOCode GR)
+[20/01/21 22:08:30] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:30] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:30] - Info - Salvando registro de linguagem (LanguageISOCode el)
+[20/01/21 22:08:31] - Info - Salvando registro de país (ISOCode GS)
+[20/01/21 22:08:31] - Info - Salvando registro de país (ISOCode GT)
+[20/01/21 22:08:32] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:32] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:32] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:08:32] - Info - Salvando registro de país (ISOCode GU)
+[20/01/21 22:08:33] - Info - Salvando registro de país (ISOCode GW)
+[20/01/21 22:08:34] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:34] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:34] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:08:34] - Info - Salvando registro de país (ISOCode GY)
+[20/01/21 22:08:35] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:35] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:35] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:08:35] - Info - Salvando registro de país (ISOCode HK)
+[20/01/21 22:08:36] - Info - Salvando registro de país (ISOCode HM)
+[20/01/21 22:08:36] - Info - Salvando registro de país (ISOCode HN)
+[20/01/21 22:08:37] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:37] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:37] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:08:37] - Info - Salvando registro de país (ISOCode HR)
+[20/01/21 22:08:38] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:38] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:38] - Info - Salvando registro de linguagem (LanguageISOCode scr)
+[20/01/21 22:08:40] - Info - Salvando registro de país (ISOCode HT)
+[20/01/21 22:08:41] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:41] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:41] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:08:41] - Info - Salvando registro de país (ISOCode HU)
+[20/01/21 22:08:42] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:42] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:42] - Info - Salvando registro de linguagem (LanguageISOCode hun)
+[20/01/21 22:08:42] - Info - Salvando registro de país (ISOCode ID)
+[20/01/21 22:08:43] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:43] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:43] - Info - Salvando registro de linguagem (LanguageISOCode ind)
+[20/01/21 22:08:44] - Info - Salvando registro de país (ISOCode IE)
+[20/01/21 22:08:45] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:45] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:45] - Info - Salvando registro de linguagem (LanguageISOCode ga)
+[20/01/21 22:08:46] - Info - Salvando registro de país (ISOCode IL)
+[20/01/21 22:08:47] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:47] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:47] - Info - Salvando registro de linguagem (LanguageISOCode heb)
+[20/01/21 22:08:48] - Info - Salvando registro de país (ISOCode IN)
+[20/01/21 22:08:48] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:48] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:48] - Info - Salvando registro de linguagem (LanguageISOCode hin)
+[20/01/21 22:08:49] - Info - Salvando registro de país (ISOCode IO)
+[20/01/21 22:08:50] - Info - Salvando registro de país (ISOCode IQ)
+[20/01/21 22:08:50] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:50] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:50] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:08:51] - Info - Salvando registro de país (ISOCode IR)
+[20/01/21 22:08:51] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:51] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:51] - Info - Salvando registro de linguagem (LanguageISOCode fa)
+[20/01/21 22:08:52] - Info - Salvando registro de país (ISOCode IS)
+[20/01/21 22:08:52] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:52] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:52] - Info - Salvando registro de linguagem (LanguageISOCode is)
+[20/01/21 22:08:53] - Info - Salvando registro de país (ISOCode IT)
+[20/01/21 22:08:54] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:54] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:54] - Info - Salvando registro de linguagem (LanguageISOCode ita)
+[20/01/21 22:08:55] - Info - Salvando registro de país (ISOCode JM)
+[20/01/21 22:08:55] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:55] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:55] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:08:56] - Info - Salvando registro de país (ISOCode JO)
+[20/01/21 22:08:56] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:56] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:56] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:08:57] - Info - Salvando registro de país (ISOCode JP)
+[20/01/21 22:08:58] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:08:58] - Info - Total de registros encontrados: 1
+[20/01/21 22:08:58] - Info - Salvando registro de linguagem (LanguageISOCode jpn)
+[20/01/21 22:08:59] - Info - Salvando registro de país (ISOCode KE)
+[20/01/21 22:09:00] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:00] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:00] - Info - Salvando registro de linguagem (LanguageISOCode swa)
+[20/01/21 22:09:00] - Info - Salvando registro de país (ISOCode KG)
+[20/01/21 22:09:01] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:01] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:01] - Info - Salvando registro de linguagem (LanguageISOCode kir)
+[20/01/21 22:09:02] - Info - Salvando registro de país (ISOCode KH)
+[20/01/21 22:09:02] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:02] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:02] - Info - Salvando registro de linguagem (LanguageISOCode khm)
+[20/01/21 22:09:03] - Info - Salvando registro de país (ISOCode KI)
+[20/01/21 22:09:03] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:03] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:03] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:09:04] - Info - Salvando registro de país (ISOCode KM)
+[20/01/21 22:09:04] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:04] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:04] - Info - Salvando registro de linguagem (LanguageISOCode swa)
+[20/01/21 22:09:05] - Info - Salvando registro de país (ISOCode KN)
+[20/01/21 22:09:05] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:05] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:05] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:09:06] - Info - Salvando registro de país (ISOCode KP)
+[20/01/21 22:09:07] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:07] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:07] - Info - Salvando registro de linguagem (LanguageISOCode kor)
+[20/01/21 22:09:07] - Info - Salvando registro de país (ISOCode KR)
+[20/01/21 22:09:08] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:08] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:08] - Info - Salvando registro de linguagem (LanguageISOCode kor)
+[20/01/21 22:09:08] - Info - Salvando registro de país (ISOCode KW)
+[20/01/21 22:09:09] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:09] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:09] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:09:09] - Info - Salvando registro de país (ISOCode KY)
+[20/01/21 22:09:10] - Info - Salvando registro de país (ISOCode KZ)
+[20/01/21 22:09:10] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:10] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:10] - Info - Salvando registro de linguagem (LanguageISOCode kaz)
+[20/01/21 22:09:11] - Info - Salvando registro de país (ISOCode LA)
+[20/01/21 22:09:11] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:11] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:11] - Info - Salvando registro de linguagem (LanguageISOCode lao)
+[20/01/21 22:09:12] - Info - Salvando registro de país (ISOCode LB)
+[20/01/21 22:09:12] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:12] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:12] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:09:13] - Info - Salvando registro de país (ISOCode LC)
+[20/01/21 22:09:13] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:13] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:13] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:09:14] - Info - Salvando registro de país (ISOCode LI)
+[20/01/21 22:09:15] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:15] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:15] - Info - Salvando registro de linguagem (LanguageISOCode de)
+[20/01/21 22:09:15] - Info - Salvando registro de país (ISOCode LK)
+[20/01/21 22:09:16] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:16] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:16] - Info - Salvando registro de linguagem (LanguageISOCode sin)
+[20/01/21 22:09:17] - Info - Salvando registro de país (ISOCode LR)
+[20/01/21 22:09:17] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:17] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:17] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:09:20] - Info - Salvando registro de país (ISOCode LS)
+[20/01/21 22:09:20] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:20] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:20] - Info - Salvando registro de linguagem (LanguageISOCode st)
+[20/01/21 22:09:21] - Info - Salvando registro de país (ISOCode LT)
+[20/01/21 22:09:22] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:22] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:22] - Info - Salvando registro de linguagem (LanguageISOCode lit)
+[20/01/21 22:09:22] - Info - Salvando registro de país (ISOCode LU)
+[20/01/21 22:09:23] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:23] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:23] - Info - Salvando registro de linguagem (LanguageISOCode ltz)
+[20/01/21 22:09:24] - Info - Salvando registro de país (ISOCode LV)
+[20/01/21 22:09:25] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:25] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:25] - Info - Salvando registro de linguagem (LanguageISOCode lav)
+[20/01/21 22:09:25] - Info - Salvando registro de país (ISOCode LY)
+[20/01/21 22:09:26] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:26] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:26] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:09:26] - Info - Salvando registro de país (ISOCode MA)
+[20/01/21 22:09:27] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:27] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:27] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:09:27] - Info - Salvando registro de país (ISOCode MC)
+[20/01/21 22:09:28] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:28] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:28] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:09:28] - Info - Salvando registro de país (ISOCode MD)
+[20/01/21 22:09:29] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:29] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:29] - Info - Salvando registro de linguagem (LanguageISOCode ro)
+[20/01/21 22:09:29] - Info - Salvando registro de país (ISOCode ME)
+[20/01/21 22:09:29] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:29] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:29] - Info - Salvando registro de linguagem (LanguageISOCode cnr)
+[20/01/21 22:09:30] - Info - Salvando registro de país (ISOCode MF)
+[20/01/21 22:09:31] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:31] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:31] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:09:31] - Info - Salvando registro de país (ISOCode MG)
+[20/01/21 22:09:32] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:32] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:32] - Info - Salvando registro de linguagem (LanguageISOCode mlg)
+[20/01/21 22:09:33] - Info - Salvando registro de país (ISOCode MH)
+[20/01/21 22:09:33] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:33] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:33] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:09:34] - Info - Salvando registro de país (ISOCode MK)
+[20/01/21 22:09:34] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:34] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:34] - Info - Salvando registro de linguagem (LanguageISOCode mk)
+[20/01/21 22:09:35] - Info - Salvando registro de país (ISOCode ML)
+[20/01/21 22:09:35] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:35] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:35] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:09:36] - Info - Salvando registro de país (ISOCode MM)
+[20/01/21 22:09:36] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:36] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:36] - Info - Salvando registro de linguagem (LanguageISOCode my)
+[20/01/21 22:09:37] - Info - Salvando registro de país (ISOCode MN)
+[20/01/21 22:09:38] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:38] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:38] - Info - Salvando registro de linguagem (LanguageISOCode mon)
+[20/01/21 22:09:38] - Info - Salvando registro de país (ISOCode MO)
+[20/01/21 22:09:39] - Info - Salvando registro de país (ISOCode MP)
+[20/01/21 22:09:40] - Info - Salvando registro de país (ISOCode MQ)
+[20/01/21 22:09:40] - Info - Salvando registro de país (ISOCode MR)
+[20/01/21 22:09:41] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:41] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:41] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:09:41] - Info - Salvando registro de país (ISOCode MS)
+[20/01/21 22:09:42] - Info - Salvando registro de país (ISOCode MT)
+[20/01/21 22:09:42] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:42] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:42] - Info - Salvando registro de linguagem (LanguageISOCode mlt)
+[20/01/21 22:09:43] - Info - Salvando registro de país (ISOCode MU)
+[20/01/21 22:09:44] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:44] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:44] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:09:44] - Info - Salvando registro de país (ISOCode MV)
+[20/01/21 22:09:46] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:46] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:47] - Info - Salvando registro de linguagem (LanguageISOCode div)
+[20/01/21 22:09:47] - Info - Salvando registro de país (ISOCode MW)
+[20/01/21 22:09:47] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:47] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:47] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:09:48] - Info - Salvando registro de país (ISOCode MX)
+[20/01/21 22:09:49] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:49] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:49] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:09:49] - Info - Salvando registro de país (ISOCode MY)
+[20/01/21 22:09:50] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:50] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:50] - Info - Salvando registro de linguagem (LanguageISOCode ms)
+[20/01/21 22:09:52] - Info - Salvando registro de país (ISOCode MZ)
+[20/01/21 22:09:53] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:53] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:53] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:09:54] - Info - Salvando registro de país (ISOCode NA)
+[20/01/21 22:09:54] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:54] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:54] - Info - Salvando registro de linguagem (LanguageISOCode afr)
+[20/01/21 22:09:55] - Info - Salvando registro de país (ISOCode NC)
+[20/01/21 22:09:55] - Info - Salvando registro de país (ISOCode NE)
+[20/01/21 22:09:57] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:57] - Info - Total de registros encontrados: 1
+[20/01/21 22:09:57] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:09:57] - Info - Salvando registro de país (ISOCode NF)
+[20/01/21 22:09:58] - Info - Salvando registro de país (ISOCode NG)
+[20/01/21 22:09:59] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:09:59] - Info - Total de registros encontrados: 4
+[20/01/21 22:09:59] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:09:59] - Info - Salvando registro de linguagem (LanguageISOCode hau)
+[20/01/21 22:10:00] - Info - Salvando registro de linguagem (LanguageISOCode ibo)
+[20/01/21 22:10:01] - Info - Salvando registro de linguagem (LanguageISOCode yor)
+[20/01/21 22:10:01] - Info - Salvando registro de país (ISOCode NI)
+[20/01/21 22:10:02] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:02] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:02] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:10:02] - Info - Salvando registro de país (ISOCode NL)
+[20/01/21 22:10:03] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:03] - Info - Total de registros encontrados: 2
+[20/01/21 22:10:03] - Info - Salvando registro de linguagem (LanguageISOCode fry)
+[20/01/21 22:10:03] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 22:10:04] - Info - Salvando registro de país (ISOCode NO)
+[20/01/21 22:10:05] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:05] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:05] - Info - Salvando registro de linguagem (LanguageISOCode nor)
+[20/01/21 22:10:06] - Info - Salvando registro de país (ISOCode NP)
+[20/01/21 22:10:06] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:06] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:06] - Info - Salvando registro de linguagem (LanguageISOCode nep)
+[20/01/21 22:10:07] - Info - Salvando registro de país (ISOCode NR)
+[20/01/21 22:10:07] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:07] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:07] - Info - Salvando registro de linguagem (LanguageISOCode nau)
+[20/01/21 22:10:08] - Info - Salvando registro de país (ISOCode NU)
+[20/01/21 22:10:08] - Info - Salvando registro de país (ISOCode NZ)
+[20/01/21 22:10:09] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:09] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:09] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:10:09] - Info - Salvando registro de país (ISOCode OM)
+[20/01/21 22:10:10] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:10] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:10] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:10:10] - Info - Salvando registro de país (ISOCode PA)
+[20/01/21 22:10:11] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:11] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:11] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:10:12] - Info - Salvando registro de país (ISOCode PE)
+[20/01/21 22:10:12] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:12] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:12] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:10:13] - Info - Salvando registro de país (ISOCode PF)
+[20/01/21 22:10:13] - Info - Salvando registro de país (ISOCode PG)
+[20/01/21 22:10:14] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:14] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:14] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:10:14] - Info - Salvando registro de país (ISOCode PH)
+[20/01/21 22:10:15] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:15] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:15] - Info - Salvando registro de linguagem (LanguageISOCode fil)
+[20/01/21 22:10:15] - Info - Salvando registro de país (ISOCode PK)
+[20/01/21 22:10:16] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:16] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:16] - Info - Salvando registro de linguagem (LanguageISOCode urd)
+[20/01/21 22:10:16] - Info - Salvando registro de país (ISOCode PL)
+[20/01/21 22:10:18] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:18] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:18] - Info - Salvando registro de linguagem (LanguageISOCode pol)
+[20/01/21 22:10:18] - Info - Salvando registro de país (ISOCode PM)
+[20/01/21 22:10:19] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:19] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:19] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:10:19] - Info - Salvando registro de país (ISOCode PN)
+[20/01/21 22:10:20] - Info - Salvando registro de país (ISOCode PR)
+[20/01/21 22:10:20] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:20] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:20] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:10:21] - Info - Salvando registro de país (ISOCode PS)
+[20/01/21 22:10:23] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:23] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:23] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:10:23] - Info - Salvando registro de país (ISOCode PT)
+[20/01/21 22:10:24] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:24] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:24] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:10:24] - Info - Salvando registro de país (ISOCode PW)
+[20/01/21 22:10:25] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:25] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:25] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:10:25] - Info - Salvando registro de país (ISOCode PY)
+[20/01/21 22:10:27] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:27] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:27] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:10:27] - Info - Salvando registro de país (ISOCode QA)
+[20/01/21 22:10:28] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:28] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:28] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:10:29] - Info - Salvando registro de país (ISOCode RE)
+[20/01/21 22:10:29] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:29] - Info - Total de registros encontrados: 2
+[20/01/21 22:10:29] - Info - Salvando registro de linguagem (LanguageISOCode cpf)
+[20/01/21 22:10:30] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:10:30] - Info - Salvando registro de país (ISOCode RO)
+[20/01/21 22:10:32] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:32] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:32] - Info - Salvando registro de linguagem (LanguageISOCode ro)
+[20/01/21 22:10:32] - Info - Salvando registro de país (ISOCode RS)
+[20/01/21 22:10:33] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:33] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:33] - Info - Salvando registro de linguagem (LanguageISOCode sr)
+[20/01/21 22:10:33] - Info - Salvando registro de país (ISOCode RU)
+[20/01/21 22:10:34] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:34] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:34] - Info - Salvando registro de linguagem (LanguageISOCode rus)
+[20/01/21 22:10:34] - Info - Salvando registro de país (ISOCode RW)
+[20/01/21 22:10:35] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:35] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:35] - Info - Salvando registro de linguagem (LanguageISOCode kin)
+[20/01/21 22:10:35] - Info - Salvando registro de país (ISOCode SA)
+[20/01/21 22:10:36] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:36] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:36] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:10:36] - Info - Salvando registro de país (ISOCode SB)
+[20/01/21 22:10:37] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:37] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:37] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:10:37] - Info - Salvando registro de país (ISOCode SC)
+[20/01/21 22:10:38] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:38] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:38] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:10:39] - Info - Salvando registro de país (ISOCode SD)
+[20/01/21 22:10:39] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:39] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:39] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:10:39] - Info - Salvando registro de país (ISOCode SE)
+[20/01/21 22:10:40] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:40] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:40] - Info - Salvando registro de linguagem (LanguageISOCode sv)
+[20/01/21 22:10:41] - Info - Salvando registro de país (ISOCode SG)
+[20/01/21 22:10:41] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:41] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:41] - Info - Salvando registro de linguagem (LanguageISOCode ms)
+[20/01/21 22:10:42] - Info - Salvando registro de país (ISOCode SH)
+[20/01/21 22:10:43] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:43] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:43] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:10:43] - Info - Salvando registro de país (ISOCode SI)
+[20/01/21 22:10:44] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:44] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:44] - Info - Salvando registro de linguagem (LanguageISOCode sk)
+[20/01/21 22:10:44] - Info - Salvando registro de país (ISOCode SJ)
+[20/01/21 22:10:45] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:45] - Info - Total de registros encontrados: 2
+[20/01/21 22:10:45] - Info - Salvando registro de linguagem (LanguageISOCode nor)
+[20/01/21 22:10:46] - Info - Salvando registro de linguagem (LanguageISOCode rus)
+[20/01/21 22:10:47] - Info - Salvando registro de país (ISOCode SK)
+[20/01/21 22:10:47] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:47] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:47] - Info - Salvando registro de linguagem (LanguageISOCode sk)
+[20/01/21 22:10:48] - Info - Salvando registro de país (ISOCode SL)
+[20/01/21 22:10:48] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:48] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:48] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:10:49] - Info - Salvando registro de país (ISOCode SM)
+[20/01/21 22:10:49] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:49] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:49] - Info - Salvando registro de linguagem (LanguageISOCode ita)
+[20/01/21 22:10:50] - Info - Salvando registro de país (ISOCode SN)
+[20/01/21 22:10:50] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:50] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:50] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:10:51] - Info - Salvando registro de país (ISOCode SO)
+[20/01/21 22:10:51] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:51] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:51] - Info - Salvando registro de linguagem (LanguageISOCode som)
+[20/01/21 22:10:52] - Info - Salvando registro de país (ISOCode SR)
+[20/01/21 22:10:52] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:52] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:52] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 22:10:53] - Info - Salvando registro de país (ISOCode ST)
+[20/01/21 22:10:53] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:53] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:53] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:10:54] - Info - Salvando registro de país (ISOCode SV)
+[20/01/21 22:10:55] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:55] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:55] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:10:56] - Info - Salvando registro de país (ISOCode SX)
+[20/01/21 22:10:56] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:56] - Info - Total de registros encontrados: 2
+[20/01/21 22:10:56] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:10:57] - Info - Salvando registro de linguagem (LanguageISOCode nl)
+[20/01/21 22:10:57] - Info - Salvando registro de país (ISOCode SY)
+[20/01/21 22:10:58] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:58] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:58] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:10:58] - Info - Salvando registro de país (ISOCode SZ)
+[20/01/21 22:10:59] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:10:59] - Info - Total de registros encontrados: 1
+[20/01/21 22:10:59] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:10:59] - Info - Salvando registro de país (ISOCode TC)
+[20/01/21 22:11:00] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:00] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:00] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:00] - Info - Salvando registro de país (ISOCode TD)
+[20/01/21 22:11:02] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:02] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:02] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:11:02] - Info - Salvando registro de país (ISOCode TF)
+[20/01/21 22:11:03] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:03] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:03] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:11:03] - Info - Salvando registro de país (ISOCode TG)
+[20/01/21 22:11:04] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:04] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:04] - Info - Salvando registro de linguagem (LanguageISOCode ewe)
+[20/01/21 22:11:05] - Info - Salvando registro de país (ISOCode TH)
+[20/01/21 22:11:05] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:05] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:05] - Info - Salvando registro de linguagem (LanguageISOCode tha)
+[20/01/21 22:11:06] - Info - Salvando registro de país (ISOCode TJ)
+[20/01/21 22:11:06] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:06] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:06] - Info - Salvando registro de linguagem (LanguageISOCode tgk)
+[20/01/21 22:11:07] - Info - Salvando registro de país (ISOCode TK)
+[20/01/21 22:11:07] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:07] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:07] - Info - Salvando registro de linguagem (LanguageISOCode tok)
+[20/01/21 22:11:08] - Info - Salvando registro de país (ISOCode TL)
+[20/01/21 22:11:08] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:08] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:08] - Info - Salvando registro de linguagem (LanguageISOCode por)
+[20/01/21 22:11:09] - Info - Salvando registro de país (ISOCode TM)
+[20/01/21 22:11:10] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:10] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:10] - Info - Salvando registro de linguagem (LanguageISOCode tuk)
+[20/01/21 22:11:10] - Info - Salvando registro de país (ISOCode TN)
+[20/01/21 22:11:11] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:11] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:11] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:11:11] - Info - Salvando registro de país (ISOCode TO)
+[20/01/21 22:11:12] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:12] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:12] - Info - Salvando registro de linguagem (LanguageISOCode tog)
+[20/01/21 22:11:12] - Info - Salvando registro de país (ISOCode TR)
+[20/01/21 22:11:13] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:13] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:13] - Info - Salvando registro de linguagem (LanguageISOCode tur)
+[20/01/21 22:11:14] - Info - Salvando registro de país (ISOCode TT)
+[20/01/21 22:11:14] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:14] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:14] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:15] - Info - Salvando registro de país (ISOCode TV)
+[20/01/21 22:11:15] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:15] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:15] - Info - Salvando registro de linguagem (LanguageISOCode tyv)
+[20/01/21 22:11:16] - Info - Salvando registro de país (ISOCode TW)
+[20/01/21 22:11:17] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:17] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:17] - Info - Salvando registro de linguagem (LanguageISOCode zh)
+[20/01/21 22:11:17] - Info - Salvando registro de país (ISOCode TZ)
+[20/01/21 22:11:18] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:18] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:18] - Info - Salvando registro de linguagem (LanguageISOCode swa)
+[20/01/21 22:11:18] - Info - Salvando registro de país (ISOCode UA)
+[20/01/21 22:11:19] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:19] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:19] - Info - Salvando registro de linguagem (LanguageISOCode ukr)
+[20/01/21 22:11:20] - Info - Salvando registro de país (ISOCode UG)
+[20/01/21 22:11:20] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:20] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:20] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:21] - Info - Salvando registro de país (ISOCode UM)
+[20/01/21 22:11:21] - Info - Salvando registro de país (ISOCode US)
+[20/01/21 22:11:23] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:23] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:23] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:23] - Info - Salvando registro de país (ISOCode UY)
+[20/01/21 22:11:24] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:24] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:24] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:11:24] - Info - Salvando registro de país (ISOCode UZ)
+[20/01/21 22:11:26] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:26] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:26] - Info - Salvando registro de linguagem (LanguageISOCode uzb)
+[20/01/21 22:11:26] - Info - Salvando registro de país (ISOCode VA)
+[20/01/21 22:11:27] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:27] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:27] - Info - Salvando registro de linguagem (LanguageISOCode ita)
+[20/01/21 22:11:28] - Info - Salvando registro de país (ISOCode VC)
+[20/01/21 22:11:29] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:29] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:29] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:29] - Info - Salvando registro de país (ISOCode VE)
+[20/01/21 22:11:30] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:30] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:30] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:11:31] - Info - Salvando registro de país (ISOCode VG)
+[20/01/21 22:11:31] - Info - Salvando registro de país (ISOCode VI)
+[20/01/21 22:11:32] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:32] - Info - Total de registros encontrados: 3
+[20/01/21 22:11:32] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:33] - Info - Salvando registro de linguagem (LanguageISOCode es)
+[20/01/21 22:11:33] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:11:34] - Info - Salvando registro de país (ISOCode VN)
+[20/01/21 22:11:34] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:34] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:34] - Info - Salvando registro de linguagem (LanguageISOCode vie)
+[20/01/21 22:11:35] - Info - Salvando registro de país (ISOCode VU)
+[20/01/21 22:11:35] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:35] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:35] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:36] - Info - Salvando registro de país (ISOCode WF)
+[20/01/21 22:11:36] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:36] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:36] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:11:37] - Info - Salvando registro de país (ISOCode WS)
+[20/01/21 22:11:37] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:37] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:37] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:11:38] - Info - Salvando registro de país (ISOCode YE)
+[20/01/21 22:11:39] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:39] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:39] - Info - Salvando registro de linguagem (LanguageISOCode ara)
+[20/01/21 22:11:39] - Info - Salvando registro de país (ISOCode YT)
+[20/01/21 22:11:40] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:40] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:40] - Info - Salvando registro de linguagem (LanguageISOCode fr)
+[20/01/21 22:11:40] - Info - Salvando registro de país (ISOCode ZA)
+[20/01/21 22:11:41] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:41] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:41] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:41] - Info - Salvando registro de país (ISOCode ZM)
+[20/01/21 22:11:42] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:42] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:42] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:42] - Info - Salvando registro de país (ISOCode ZW)
+[20/01/21 22:11:43] - Info - Obtendo lista de linguagens a partir do XML...
+[20/01/21 22:11:43] - Info - Total de registros encontrados: 1
+[20/01/21 22:11:43] - Info - Salvando registro de linguagem (LanguageISOCode eng)
+[20/01/21 22:11:44] - Info - Cadastro de países encerrado

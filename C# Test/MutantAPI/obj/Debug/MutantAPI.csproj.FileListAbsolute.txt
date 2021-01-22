@@ -1,0 +1,207 @@
+C:\Projetos\Teste\Mutant\MutantAPI\bin\MutantAPI.dll.config
+C:\Projetos\Teste\Mutant\MutantAPI\bin\MutantAPI.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\MutantAPI.pdb
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\csc.exe
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\csc.exe.config
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\csc.rsp
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\csi.exe
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\csi.rsp
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\System.AppContext.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\vbc.exe
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\vbc.exe.config
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\vbc.rsp
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\Teste\Mutant\MutantAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\Teste\Mutant\MutantAPI\bin\Antlr3.Runtime.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\Newtonsoft.Json.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Net.Http.Formatting.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Helpers.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Http.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Http.WebHost.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Mvc.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Optimization.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Razor.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.WebPages.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\WebGrease.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\Newtonsoft.Json.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Net.Http.Formatting.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Helpers.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Http.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Http.WebHost.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Mvc.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Optimization.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Razor.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.WebPages.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\Antlr3.Runtime.pdb
+C:\Projetos\Teste\Mutant\MutantAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\Teste\Mutant\MutantAPI\obj\Debug\MutantAPI.csprojAssemblyReference.cache
+C:\Projetos\Teste\Mutant\MutantAPI\obj\Debug\MutantAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\Mutant\MutantAPI\obj\Debug\MutantAPI.csproj.CopyComplete
+C:\Projetos\Teste\Mutant\MutantAPI\obj\Debug\MutantAPI.dll
+C:\Projetos\Teste\Mutant\MutantAPI\obj\Debug\MutantAPI.pdb
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Cors.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Http.Cors.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\System.Web.Http.Cors.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\MySql.Data.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\MutantAPI.xml
+C:\Projetos\Teste\Mutant\MutantAPI\bin\Swashbuckle.Core.dll
+C:\Projetos\Teste\Mutant\MutantAPI\bin\WebActivatorEx.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\MutantAPI.dll.config
+C:\Projetos\Teste\C#\MutantAPI\bin\MutantAPI.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\MutantAPI.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\MutantAPI.pdb
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\csc.exe
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\csc.exe.config
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\csc.rsp
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\csi.exe
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\csi.rsp
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\System.AppContext.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\vbc.exe
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\vbc.exe.config
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\vbc.rsp
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\Teste\C#\MutantAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\Teste\C#\MutantAPI\bin\Antlr3.Runtime.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\MySql.Data.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\Newtonsoft.Json.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\Swashbuckle.Core.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Net.Http.Formatting.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Cors.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Helpers.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Http.Cors.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Http.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Http.WebHost.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Mvc.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Optimization.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Razor.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.WebPages.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\WebActivatorEx.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\WebGrease.dll
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Http.Cors.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\Newtonsoft.Json.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Net.Http.Formatting.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Helpers.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Http.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Http.WebHost.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Mvc.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Optimization.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.Razor.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.WebPages.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\Teste\C#\MutantAPI\bin\Antlr3.Runtime.pdb
+C:\Projetos\Teste\C#\MutantAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\Teste\C#\MutantAPI\obj\Debug\MutantAPI.csprojAssemblyReference.cache
+C:\Projetos\Teste\C#\MutantAPI\obj\Debug\MutantAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\C#\MutantAPI\obj\Debug\MutantAPI.csproj.CopyComplete
+C:\Projetos\Teste\C#\MutantAPI\obj\Debug\MutantAPI.dll
+C:\Projetos\Teste\C#\MutantAPI\obj\Debug\MutantAPI.pdb
+C:\tmp\Mutant\C# Test\MutantAPI\bin\MutantAPI.dll.config
+C:\tmp\Mutant\C# Test\MutantAPI\bin\MutantAPI.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\MutantAPI.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\MutantAPI.pdb
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\csc.exe
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\csc.exe.config
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\csc.rsp
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\csi.exe
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\csi.rsp
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\System.AppContext.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\vbc.exe
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\vbc.exe.config
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\vbc.rsp
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\VBCSCompiler.exe
+C:\tmp\Mutant\C# Test\MutantAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\tmp\Mutant\C# Test\MutantAPI\bin\Antlr3.Runtime.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\MySql.Data.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\Newtonsoft.Json.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\Swashbuckle.Core.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Net.Http.Formatting.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Cors.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Helpers.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Http.Cors.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Http.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Http.WebHost.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Mvc.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Optimization.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Razor.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.WebPages.Deployment.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.WebPages.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.WebPages.Razor.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\WebActivatorEx.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\WebGrease.dll
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Http.Cors.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\Newtonsoft.Json.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Net.Http.Formatting.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Helpers.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Http.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Http.WebHost.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Mvc.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Optimization.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.Razor.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.WebPages.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.WebPages.Deployment.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\System.Web.WebPages.Razor.xml
+C:\tmp\Mutant\C# Test\MutantAPI\bin\Antlr3.Runtime.pdb
+C:\tmp\Mutant\C# Test\MutantAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\tmp\Mutant\C# Test\MutantAPI\obj\Debug\MutantAPI.csprojAssemblyReference.cache
+C:\tmp\Mutant\C# Test\MutantAPI\obj\Debug\MutantAPI.csproj.CoreCompileInputs.cache
+C:\tmp\Mutant\C# Test\MutantAPI\obj\Debug\MutantAPI.csproj.CopyComplete
+C:\tmp\Mutant\C# Test\MutantAPI\obj\Debug\MutantAPI.dll
+C:\tmp\Mutant\C# Test\MutantAPI\obj\Debug\MutantAPI.pdb

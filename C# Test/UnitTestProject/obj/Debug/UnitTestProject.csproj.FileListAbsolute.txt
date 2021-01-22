@@ -1,0 +1,92 @@
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\MutantAPI.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Http.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\WebActivatorEx.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Optimization.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Mvc.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Swashbuckle.Core.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Http.Cors.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\MySql.Data.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Http.WebHost.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.WebPages.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Razor.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Cors.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\MutantAPI.pdb
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\MutantAPI.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\MutantAPI.dll.config
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Http.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Optimization.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Mvc.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Http.Cors.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Http.WebHost.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.WebPages.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.Razor.xml
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projetos\Teste\C#\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Projetos\Teste\C#\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\C#\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Projetos\Teste\C#\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Projetos\Teste\C#\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Projetos\Teste\C#\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\MutantAPI.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Net.Http.Formatting.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Http.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\WebActivatorEx.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Optimization.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Mvc.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Swashbuckle.Core.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Http.Cors.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\MySql.Data.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Http.WebHost.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.WebPages.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Razor.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Cors.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\MutantAPI.pdb
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\MutantAPI.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\MutantAPI.dll.config
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Net.Http.Formatting.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Http.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Optimization.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Mvc.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Http.Cors.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Http.WebHost.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.WebPages.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.Razor.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\tmp\Mutant\C# Test\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\tmp\Mutant\C# Test\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\tmp\Mutant\C# Test\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\tmp\Mutant\C# Test\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\tmp\Mutant\C# Test\UnitTestProject\obj\Debug\UnitTestProject.pdb

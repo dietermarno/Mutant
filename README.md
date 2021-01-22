@@ -6,6 +6,8 @@ Visual Basic 6:
     presente na raiz do repositório (mysql-connector-odbc-5.1.11-win32.msi)
   - A aplicação está usando banco de dados online, hospedado no provedor Locaweb, desta forma não é preciso instalar 
     o servidor MYSQL nem criar o banco de dados através de script.
+  - A solução é composta por 3 projetos, desta forma é fundamental para sua correta execução abertura a partir do
+    arquivo de grupo de projeto (MutantApplication.vbg).
 
 C#:
   - A aplicação está usando banco de dados online, hospedado no provedor Locaweb, desta forma não é preciso instalar 
